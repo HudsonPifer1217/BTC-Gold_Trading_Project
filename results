@@ -1,0 +1,10 @@
+results with SMA 5-50 and LMA 30 - 200:
+SMA                          45.000000
+LMA                         120.000000
+Final_Portfolio_Value    102627.861022
+
+
+results for BTC with no commission:
+SMA                          17.000000
+LMA                          30.000000
+Final_Portfolio_Value    183841.883541
